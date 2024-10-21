@@ -30,6 +30,7 @@ DELETE
 
  Membuat API dengan XML menggunakan PHP
  ![xml](https://github.com/user-attachments/assets/c8242450-260c-4f2a-a5e8-9ef5f0776040)
+![xml tugas](https://github.com/user-attachments/assets/75c7d164-fce0-4076-a9df-729cd513b426)
 
 
 
