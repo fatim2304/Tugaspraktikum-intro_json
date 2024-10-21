@@ -1,3 +1,9 @@
+
+Nama : Siti Fatimah Ayu Lestari
+Kelas : 2A_TRPL
+NIM : 362358302013
+
+
 Praktikum JSON
 Membuat	Server	Express.js
 ![serve js](https://github.com/user-attachments/assets/d3fe23d5-2eb5-46ec-966f-36973044019a)
